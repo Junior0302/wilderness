@@ -1,0 +1,80 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "hash": "e7ae6930973f28a5989a92cbaab5f0a400bcbf9d44cfbef73b8483b6b8158fcd"
+    },
+    {
+      "path": "app.tsx",
+      "hash": "aba5cecf309141a7aee518fca7ef979f3c982e6d0174587e9c2df53fc10927a7"
+    },
+    {
+      "path": "archive.html",
+      "hash": "d785af9cf574663f2c0e1045f106275828e9345dc76d81bcda5f5ee5af23d276"
+    },
+    {
+      "path": "assets/desert/desert-cacti.png",
+      "hash": "5390a3089b97433f339ec0182f8d25c7b4c479539ae8759d6dd2c282bd1acd1a"
+    },
+    {
+      "path": "assets/desert/desert-dusk.png",
+      "hash": "d33ea180a9653396c984e5ac2f23d6aebb648552f2f78e09fdf6cf9768a53d71"
+    },
+    {
+      "path": "assets/desert/desert-foreground.png",
+      "hash": "b58e5e5df0b90c4a2e92ee583e542e50e233c522b7bf5df3d9705473b85fd307"
+    },
+    {
+      "path": "assets/desert/desert-mesas.png",
+      "hash": "8691f38acf9666fbbb8979477ff0819ae0a37e454d8d09d36b58a15c07516c4c"
+    },
+    {
+      "path": "atlas.html",
+      "hash": "9dff5e4362341d10f97e5df5b3178498a419d8993232b7bd7e2b692e5627fe84"
+    },
+    {
+      "path": "components/ui/demo.tsx",
+      "hash": "3cd5933b1d707812ac498bb387454c5b4dbf151ca951df10473abb4fb5ffa438"
+    },
+    {
+      "path": "components/ui/editorial.tsx",
+      "hash": "a878a88aa504afe0d86f2c32b5a241d3653a93c3529efb7bf862e7e8d8ae8659"
+    },
+    {
+      "path": "components/ui/projects.tsx",
+      "hash": "27dd0b5324934d5bc832416b8650ee95d8555235a70f4dedb8d6dae5febfb398"
+    },
+    {
+      "path": "components/ui/wilderness.tsx",
+      "hash": "fbd58eff7be935ce62d9b96500d8f9d65b49c4896fdf896e0379ad7644a9c202"
+    },
+    {
+      "path": "components.json",
+      "hash": "75ab235f3ca856dae656e28f5e7149e03ed56a2a67ef499eab19ddbd5f0b56d1"
+    },
+    {
+      "path": "index.html",
+      "hash": "ff424be26704ecbef82018711eb5fc8cf31fb6504d237184f6c9ea3e65745a1d"
+    },
+    {
+      "path": "journal.html",
+      "hash": "f8d5452983a4652fbc6885d958e8d17e48498d58f96f36f082ede596d8a4074c"
+    },
+    {
+      "path": "lib/utils.ts",
+      "hash": "fefc3728e0622f92e365d1852a5944c9ce23192675f0d88dcd0d216fa7e39ec9"
+    },
+    {
+      "path": "styles.css",
+      "hash": "d92e7f85b2abd38216e09d103687b6892d7847db9c67680fd7b6408bd1e3b89b"
+    },
+    {
+      "path": "tailwind.config.js",
+      "hash": "7ab631d5714644d019d060174d565cc8d4051b8c144f2e64d8f5727a85184bf9"
+    },
+    {
+      "path": "tsconfig.json",
+      "hash": "07c50091bf95855c0b4aee4ed21b85125161f5b3edc6b817073d0e711b455354"
+    }
+  ]
+}
